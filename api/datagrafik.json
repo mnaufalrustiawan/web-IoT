@@ -1,0 +1,502 @@
+[
+    {
+        "kelembapan": "0.6",
+        "ph": "13.0",
+        "suhu": "23.9",
+        "nitrogen": "108",
+        "fosfor": "450.0",
+        "kalium": "198.0",
+        "curah_hujan": "88.3",
+        "timestamp": "18 Jan 2025 - 03:30:03 WIB"
+    },
+    {
+        "kelembapan": "54.5",
+        "ph": "8.1",
+        "suhu": "43.5",
+        "nitrogen": "60",
+        "fosfor": "251.0",
+        "kalium": "54.0",
+        "curah_hujan": "219.7",
+        "timestamp": "18 Jan 2025 - 03:30:05 WIB"
+    },
+    {
+        "kelembapan": "26.6",
+        "ph": "8.0",
+        "suhu": "6.8",
+        "nitrogen": "110",
+        "fosfor": "368.0",
+        "kalium": "180.0",
+        "curah_hujan": "90.6",
+        "timestamp": "18 Jan 2025 - 03:30:08 WIB"
+    },
+    {
+        "kelembapan": "77.6",
+        "ph": "11.8",
+        "suhu": "39.9",
+        "nitrogen": "74",
+        "fosfor": "6.0",
+        "kalium": "193.0",
+        "curah_hujan": "264.2",
+        "timestamp": "18 Jan 2025 - 03:30:10 WIB"
+    },
+    {
+        "kelembapan": "38.5",
+        "ph": "4.2",
+        "suhu": "37.3",
+        "nitrogen": "34",
+        "fosfor": "138.0",
+        "kalium": "106.0",
+        "curah_hujan": "168.8",
+        "timestamp": "18 Jan 2025 - 03:30:12 WIB"
+    },
+    {
+        "kelembapan": "15.2",
+        "ph": "1.6",
+        "suhu": "12.5",
+        "nitrogen": " 5",
+        "fosfor": "274.0",
+        "kalium": "101.0",
+        "curah_hujan": "68.1",
+        "timestamp": "18 Jan 2025 - 03:30:14 WIB"
+    },
+    {
+        "kelembapan": "41.0",
+        "ph": "13.1",
+        "suhu": "6.7",
+        "nitrogen": "143",
+        "fosfor": "479.0",
+        "kalium": "147.0",
+        "curah_hujan": "259.2",
+        "timestamp": "18 Jan 2025 - 03:30:16 WIB"
+    },
+    {
+        "kelembapan": "77.9",
+        "ph": "8.9",
+        "suhu": "28.6",
+        "nitrogen": "88",
+        "fosfor": "429.0",
+        "kalium": "61.0",
+        "curah_hujan": "193.2",
+        "timestamp": "18 Jan 2025 - 03:30:19 WIB"
+    },
+    {
+        "kelembapan": "56.2",
+        "ph": "1.7",
+        "suhu": "3.1",
+        "nitrogen": "141",
+        "fosfor": "119.0",
+        "kalium": "196.0",
+        "curah_hujan": "136.7",
+        "timestamp": "18 Jan 2025 - 03:30:21 WIB"
+    },
+    {
+        "kelembapan": "40.8",
+        "ph": "12.2",
+        "suhu": "9.2",
+        "nitrogen": "66",
+        "fosfor": "441.0",
+        "kalium": "96.0",
+        "curah_hujan": "177.6",
+        "timestamp": "18 Jan 2025 - 03:30:23 WIB"
+    },
+    {
+        "kelembapan": "27.4",
+        "ph": "10.2",
+        "suhu": "34.5",
+        "nitrogen": "127",
+        "fosfor": "264.0",
+        "kalium": "29.0",
+        "curah_hujan": "56.1",
+        "timestamp": "18 Jan 2025 - 03:30:25 WIB"
+    },
+    {
+        "kelembapan": "62.9",
+        "ph": "9.5",
+        "suhu": "10.2",
+        "nitrogen": "148",
+        "fosfor": "119.0",
+        "kalium": "92.0",
+        "curah_hujan": "205.7",
+        "timestamp": "18 Jan 2025 - 03:30:27 WIB"
+    },
+    {
+        "kelembapan": "4.4",
+        "ph": "12.8",
+        "suhu": "7.0",
+        "nitrogen": "32",
+        "fosfor": "494.0",
+        "kalium": "14.0",
+        "curah_hujan": "108.9",
+        "timestamp": "18 Jan 2025 - 03:30:29 WIB"
+    },
+    {
+        "kelembapan": "12.4",
+        "ph": "1.0",
+        "suhu": "44.2",
+        "nitrogen": "43",
+        "fosfor": "185.0",
+        "kalium": "196.0",
+        "curah_hujan": "57.3",
+        "timestamp": "18 Jan 2025 - 03:30:32 WIB"
+    },
+    {
+        "kelembapan": "68.3",
+        "ph": "1.2",
+        "suhu": "2.8",
+        "nitrogen": "60",
+        "fosfor": "44.0",
+        "kalium": "191.0",
+        "curah_hujan": "238.2",
+        "timestamp": "18 Jan 2025 - 03:30:34 WIB"
+    },
+    {
+        "kelembapan": "69.5",
+        "ph": "11.8",
+        "suhu": "31.2",
+        "nitrogen": "140",
+        "fosfor": "367.0",
+        "kalium": "143.0",
+        "curah_hujan": "7.1",
+        "timestamp": "18 Jan 2025 - 03:30:36 WIB"
+    },
+    {
+        "kelembapan": "19.5",
+        "ph": "1.3",
+        "suhu": "32.9",
+        "nitrogen": "105",
+        "fosfor": "227.0",
+        "kalium": "6.0",
+        "curah_hujan": "200.8",
+        "timestamp": "18 Jan 2025 - 03:30:38 WIB"
+    },
+    {
+        "kelembapan": "55.6",
+        "ph": "11.2",
+        "suhu": "38.9",
+        "nitrogen": "13",
+        "fosfor": "308.0",
+        "kalium": "91.0",
+        "curah_hujan": "90.9",
+        "timestamp": "18 Jan 2025 - 03:30:40 WIB"
+    },
+    {
+        "kelembapan": "18.9",
+        "ph": "7.3",
+        "suhu": "34.3",
+        "nitrogen": "24",
+        "fosfor": "385.0",
+        "kalium": "31.0",
+        "curah_hujan": "189.0",
+        "timestamp": "18 Jan 2025 - 03:30:42 WIB"
+    },
+    {
+        "kelembapan": "23.4",
+        "ph": "5.3",
+        "suhu": "32.7",
+        "nitrogen": "27",
+        "fosfor": "410.0",
+        "kalium": "152.0",
+        "curah_hujan": "51.2",
+        "timestamp": "18 Jan 2025 - 03:30:45 WIB"
+    },
+    {
+        "kelembapan": "81.0",
+        "ph": "11.7",
+        "suhu": "20.1",
+        "nitrogen": "136",
+        "fosfor": "68.0",
+        "kalium": "143.0",
+        "curah_hujan": "60.3",
+        "timestamp": "18 Jan 2025 - 03:30:47 WIB"
+    },
+    {
+        "kelembapan": "51.4",
+        "ph": "1.3",
+        "suhu": "5.1",
+        "nitrogen": "124",
+        "fosfor": "154.0",
+        "kalium": "165.0",
+        "curah_hujan": "214.9",
+        "timestamp": "18 Jan 2025 - 03:30:49 WIB"
+    },
+    {
+        "kelembapan": "7.2",
+        "ph": "8.4",
+        "suhu": "22.1",
+        "nitrogen": "141",
+        "fosfor": "31.0",
+        "kalium": "182.0",
+        "curah_hujan": "68.4",
+        "timestamp": "18 Jan 2025 - 03:30:51 WIB"
+    },
+    {
+        "kelembapan": "17.9",
+        "ph": "10.9",
+        "suhu": "27.0",
+        "nitrogen": "48",
+        "fosfor": "400.0",
+        "kalium": "10.0",
+        "curah_hujan": "182.7",
+        "timestamp": "18 Jan 2025 - 03:30:53 WIB"
+    },
+    {
+        "kelembapan": "39.6",
+        "ph": "2.4",
+        "suhu": "42.9",
+        "nitrogen": "135",
+        "fosfor": "239.0",
+        "kalium": "101.0",
+        "curah_hujan": "222.4",
+        "timestamp": "18 Jan 2025 - 03:30:55 WIB"
+    },
+    {
+        "kelembapan": "83.2",
+        "ph": "1.4",
+        "suhu": "32.7",
+        "nitrogen": "131",
+        "fosfor": "192.0",
+        "kalium": "69.0",
+        "curah_hujan": "115.0",
+        "timestamp": "18 Jan 2025 - 03:30:57 WIB"
+    },
+    {
+        "kelembapan": "25.7",
+        "ph": "6.9",
+        "suhu": "1.9",
+        "nitrogen": "117",
+        "fosfor": "229.0",
+        "kalium": "18.0",
+        "curah_hujan": "180.7",
+        "timestamp": "18 Jan 2025 - 03:31:00 WIB"
+    },
+    {
+        "kelembapan": "40.1",
+        "ph": "2.6",
+        "suhu": "0.1",
+        "nitrogen": "102",
+        "fosfor": "449.0",
+        "kalium": "131.0",
+        "curah_hujan": "282.9",
+        "timestamp": "18 Jan 2025 - 03:31:02 WIB"
+    },
+    {
+        "kelembapan": "14.1",
+        "ph": "4.3",
+        "suhu": "22.6",
+        "nitrogen": "132",
+        "fosfor": "265.0",
+        "kalium": "25.0",
+        "curah_hujan": "86.3",
+        "timestamp": "18 Jan 2025 - 03:31:04 WIB"
+    },
+    {
+        "kelembapan": "64.2",
+        "ph": "9.9",
+        "suhu": "22.8",
+        "nitrogen": "11",
+        "fosfor": "198.0",
+        "kalium": "148.0",
+        "curah_hujan": "37.0",
+        "timestamp": "18 Jan 2025 - 03:31:06 WIB"
+    },
+    {
+        "kelembapan": "75.8",
+        "ph": "11.4",
+        "suhu": "25.5",
+        "nitrogen": "28",
+        "fosfor": "392.0",
+        "kalium": "44.0",
+        "curah_hujan": "153.1",
+        "timestamp": "18 Jan 2025 - 03:31:08 WIB"
+    },
+    {
+        "kelembapan": "37.1",
+        "ph": "2.5",
+        "suhu": "41.0",
+        "nitrogen": " 0",
+        "fosfor": "295.0",
+        "kalium": "25.0",
+        "curah_hujan": "14.1",
+        "timestamp": "18 Jan 2025 - 03:31:10 WIB"
+    },
+    {
+        "kelembapan": "9.5",
+        "ph": "0.7",
+        "suhu": "2.4",
+        "nitrogen": "47",
+        "fosfor": "361.0",
+        "kalium": "177.0",
+        "curah_hujan": "77.0",
+        "timestamp": "18 Jan 2025 - 03:31:13 WIB"
+    },
+    {
+        "kelembapan": "91.8",
+        "ph": "7.9",
+        "suhu": "16.1",
+        "nitrogen": "27",
+        "fosfor": "427.0",
+        "kalium": "49.0",
+        "curah_hujan": "39.7",
+        "timestamp": "18 Jan 2025 - 03:31:15 WIB"
+    },
+    {
+        "kelembapan": "83.7",
+        "ph": "1.9",
+        "suhu": "37.3",
+        "nitrogen": "36",
+        "fosfor": "74.0",
+        "kalium": "171.0",
+        "curah_hujan": "205.6",
+        "timestamp": "18 Jan 2025 - 03:31:17 WIB"
+    },
+    {
+        "kelembapan": "15.8",
+        "ph": "8.3",
+        "suhu": "42.9",
+        "nitrogen": "122",
+        "fosfor": "7.0",
+        "kalium": "132.0",
+        "curah_hujan": "124.9",
+        "timestamp": "18 Jan 2025 - 03:31:19 WIB"
+    },
+    {
+        "kelembapan": "31.5",
+        "ph": "13.9",
+        "suhu": "27.0",
+        "nitrogen": "27",
+        "fosfor": "39.0",
+        "kalium": "115.0",
+        "curah_hujan": "48.3",
+        "timestamp": "18 Jan 2025 - 03:31:21 WIB"
+    },
+    {
+        "kelembapan": "61.3",
+        "ph": "4.6",
+        "suhu": "37.8",
+        "nitrogen": "73",
+        "fosfor": "317.0",
+        "kalium": "191.0",
+        "curah_hujan": "260.9",
+        "timestamp": "18 Jan 2025 - 03:31:23 WIB"
+    },
+    {
+        "kelembapan": "25.1",
+        "ph": "4.9",
+        "suhu": "18.0",
+        "nitrogen": "48",
+        "fosfor": "420.0",
+        "kalium": "183.0",
+        "curah_hujan": "212.4",
+        "timestamp": "18 Jan 2025 - 03:31:26 WIB"
+    },
+    {
+        "kelembapan": "87.9",
+        "ph": "5.3",
+        "suhu": "16.8",
+        "nitrogen": "113",
+        "fosfor": "53.0",
+        "kalium": "45.0",
+        "curah_hujan": "32.6",
+        "timestamp": "18 Jan 2025 - 03:31:28 WIB"
+    },
+    {
+        "kelembapan": "47.0",
+        "ph": "12.9",
+        "suhu": "36.7",
+        "nitrogen": "25",
+        "fosfor": "35.0",
+        "kalium": "8.0",
+        "curah_hujan": "216.8",
+        "timestamp": "18 Jan 2025 - 03:31:30 WIB"
+    },
+    {
+        "kelembapan": "72.2",
+        "ph": "10.5",
+        "suhu": "34.9",
+        "nitrogen": "54",
+        "fosfor": "353.0",
+        "kalium": "196.0",
+        "curah_hujan": "193.0",
+        "timestamp": "18 Jan 2025 - 03:31:32 WIB"
+    },
+    {
+        "kelembapan": "54.4",
+        "ph": "7.6",
+        "suhu": "12.3",
+        "nitrogen": "130",
+        "fosfor": "177.0",
+        "kalium": "162.0",
+        "curah_hujan": "92.6",
+        "timestamp": "18 Jan 2025 - 03:31:34 WIB"
+    },
+    {
+        "kelembapan": "3.1",
+        "ph": "4.9",
+        "suhu": "24.3",
+        "nitrogen": "94",
+        "fosfor": "252.0",
+        "kalium": "29.0",
+        "curah_hujan": "7.0",
+        "timestamp": "18 Jan 2025 - 03:31:36 WIB"
+    },
+    {
+        "kelembapan": "98.3",
+        "ph": "0.3",
+        "suhu": "33.3",
+        "nitrogen": "93",
+        "fosfor": "205.0",
+        "kalium": "113.0",
+        "curah_hujan": "295.3",
+        "timestamp": "18 Jan 2025 - 03:31:38 WIB"
+    },
+    {
+        "kelembapan": "24.7",
+        "ph": "3.4",
+        "suhu": "15.5",
+        "nitrogen": "88",
+        "fosfor": "16.0",
+        "kalium": "182.0",
+        "curah_hujan": "28.5",
+        "timestamp": "18 Jan 2025 - 03:31:41 WIB"
+    },
+    {
+        "kelembapan": "34.7",
+        "ph": "9.7",
+        "suhu": "41.3",
+        "nitrogen": "42",
+        "fosfor": "188.0",
+        "kalium": "146.0",
+        "curah_hujan": "139.4",
+        "timestamp": "18 Jan 2025 - 03:31:43 WIB"
+    },
+    {
+        "kelembapan": "17.8",
+        "ph": "12.9",
+        "suhu": "22.9",
+        "nitrogen": "128",
+        "fosfor": "250.0",
+        "kalium": "55.0",
+        "curah_hujan": "240.0",
+        "timestamp": "18 Jan 2025 - 03:31:45 WIB"
+    },
+    {
+        "kelembapan": "88.1",
+        "ph": "4.8",
+        "suhu": "33.5",
+        "nitrogen": "145",
+        "fosfor": "173.0",
+        "kalium": "171.0",
+        "curah_hujan": "200.7",
+        "timestamp": "18 Jan 2025 - 03:31:47 WIB"
+    },
+    {
+        "kelembapan": "4.1",
+        "ph": "1.8",
+        "suhu": "40.4",
+        "nitrogen": "55",
+        "fosfor": "455.0",
+        "kalium": "178.0",
+        "curah_hujan": "152.0",
+        "timestamp": "18 Jan 2025 - 03:31:49 WIB"
+    }
+]

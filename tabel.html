@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="manifest" href="manifest.json" />
+    <script src="https://kit.fontawesome.com/c49b03c6ad.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+
+    <title>Irigasi Otomatis</title>
+    <link rel="icon" href="pavicon.png" type="image/png" />
+  </head>
+  <div class="grid shadow-sm border-b-2 border-gray-900 bg-emerald-400 bg-opacity-50 border-opacity-5">
+    <div class="flex gap-2 justify-around items-center py-2 ml-6">
+      <!-- Logo Section -->
+      <div class="flex items-center">
+        <img src="pavicon.png" alt="logo" class="w-10 h-10" />
+      </div>
+
+      <!-- Title Section -->
+      <div class="flex flex-col items-center">
+        <div class="font-extrabold text-2xl">IRigasi OtomaTIS</div>
+        <div class="text-xs">created by <span class="font-bold">Naufal</span></div>
+      </div>
+
+      <!-- Status Section -->
+      <div class="flex items-center bg-slate-50 px-2 rounded-lg text-xs font-semibold">
+        <span id="dots" class="fa-solid fa-wifi mr-1"></span>
+        <span id="device-status">Offline</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="pt-3 font-bold">data diupdate: <span id="last-update">-</span></div>
+
+  <!-- Main Content Section -->
+  <div class="max-w-screen-md mx-auto pt-5 px-3">
+    <!-- Table 1: PH, Kelembapan, Curah Hujan -->
+    <div class="overflow-x-auto bg-white rounded-lg shadow-md p-4 mb-8">
+      <h2 class="text-xl font-semibold mb-4">Tabel Data PH, Kelembapan & Curah Hujan</h2>
+      <table id="data-table-1" class="min-w-full table-auto text-sm">
+        <thead>
+          <tr class="bg-gray-100">
+            <th class="border py-1 px-2 text-left">No</th>
+            <th class="border py-1 px-2 text-left">pH</th>
+            <th class="border py-1 px-2 text-left">Kelembapan</th>
+            <th class="border py-1 px-2 text-left">Curah Hujan</th>
+            <th class="border py-1 px-2 text-left">Timestamp</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Data rows will be dynamically inserted here -->
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Table 2: Nitrogen, Fosfor, Kalium -->
+    <div class="overflow-x-auto bg-white rounded-lg shadow-md p-4">
+      <h2 class="text-xl font-semibold mb-4">Tabel Data NPK (Nitrogen, Fosfor, Kalium)</h2>
+      <table id="data-table-2" class="min-w-full table-auto text-sm">
+        <thead>
+          <tr class="bg-gray-100">
+            <th class="border py-1 px-2 text-left">No</th>
+            <th class="border py-1 px-2 text-left">Nitrogen</th>
+            <th class="border py-1 px-2 text-left">Fosfor</th>
+            <th class="border py-1 px-2 text-left">Kalium</th>
+            <th class="border py-1 px-2 text-left">Timestamp</th>
+          </tr>
+        </thead>
+        <tbody>
+          <!-- Data rows will be dynamically inserted here -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <body class="max-w-screen-md mx-auto text-center scroll-smooth intialiased bg-emerald-200 mb-32 pt-">
+    <!-- BAGIAN NAVBAR -->
+    <div class="max-w-screen-md mx-auto fixed z-0 bottom-0 left-0 right-0 bg-emerald-400">
+      <div class="grid grid-cols-5 px-3 py-3 gap-5 justify-center items-center">
+        <button id="tombol-download" class="hover:scale-125 hover:-translate-y-2 transition-transform duration-200">
+          <div class="fa-solid fa-arrow-down text-2xl text-indigo-700"></div>
+          <div class="text-xs font-bold">Data</div>
+        </button>
+        <a class="hover:scale-125 hover:-translate-y-2 transition-transform duration-200" href="tanaman.html">
+          <div id="tombolreset" class="fa-solid fa-tree text-2xl text-green-900"></div>
+          <div class="text-xs font-bold">Tanaman</div>
+        </a>
+        <a class="bg-yellow-500 bg-opacity-80 rounded-full py-4 hover:scale-125 hover:-translate-y-2 transition-transform duration-200" href="index.html">
+          <div class="fa-solid fa-house text-2xl"></div>
+        </a>
+        <a class="hover:scale-125 hover:-translate-y-2 transition-transform duration-200" href="grafik.html">
+          <div class="fa-solid fa-chart-line text-2xl text-amber-700"></div>
+          <div class="text-xs font-bold">Grafik</div>
+        </a>
+        <a class="hover:scale-125 hover:-translate-y-2 transition-transform duration-200" href="tabel.html">
+          <div class="fa-solid fa-gear text-2xl text-sky-600"></div>
+          <div class="text-xs font-bold">Tabel</div>
+        </a>
+      </div>
+    </div>
+
+    <!--  -->
+
+    <script src="js/endpoint.js"></script>
+    <script src="js/display.js"></script>
+    <script src="js/dom.js"></script>
+    <script src="js/device.js"></script>
+    <script src="js/download.js"></script>
+    <script src="js/tabel.js"></script>
+  </body>
+</html>
